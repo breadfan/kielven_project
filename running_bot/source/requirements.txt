@@ -1,0 +1,17 @@
+joblib
+python-math
+requests
+datetime
+scikit-learn
+pandas
+numpy
+more_itertools
+python-telegram-bot[rate-limiter]
+matplotlib
+pyyaml
+huggingface_hub
+transformers
+sentence_transformers
+torch
+torchvision
+sentencepiece

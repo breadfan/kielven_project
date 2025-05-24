@@ -1,0 +1,13 @@
+services:
+  app:
+    container_name: labelling_bot
+    build:
+      context: .
+      dockerfile: ./Dockerfile 
+    command: python source/bot_source.py
+    ports:
+      - 6000:6000
+      # environment:
+      # - DB_USER=${user} # переменные серды
+    volumes:
+      - .:/app # внешняя папка 

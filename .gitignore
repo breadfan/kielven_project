@@ -1,0 +1,11 @@
+content_krl_20
+vepkardb-20250201
+databases*
+# *.txt
+apertium-fin-olo.fin-olo.dix
+models_cache
+
+nllb-rus-kar-v1
+weights
+models
+__pycache__

@@ -1,0 +1,4 @@
+bot_token : ''
+data_folder : data
+# ваш ID в телеге для трека ошибок
+developer_chat_id : 
